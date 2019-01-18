@@ -16,6 +16,7 @@ const TopBarHead = styled.div`
 `;
 
 const Container = styled.div`
+    max-width: 1280px;
     width: 100%;
     display: flex;
     justify-content: none;
